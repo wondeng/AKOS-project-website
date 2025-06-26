@@ -14,7 +14,7 @@ The AKOS Project is dedicated to breaking down barriers and building up communit
 
 ## Live Website
 
-Visit our website: [https://wondeng.github.io/akos-project-website](https://wondeng.github.io/akos-project-website)
+Visit our website: [https://wondeng.github.io/AKOS-project-website](https://wondeng.github.io/AKOS-project-website)
 
 ## Get Involved
 
