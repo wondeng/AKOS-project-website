@@ -25,7 +25,7 @@ Visit our website: [https://wondeng.github.io/AKOS-project-website](https://wond
 
 ## Contact
 
-- Email: info@akosproject.org
+- Email: imak1095@nyu.edu
 - Website: [AKOS Project](https://wondeng.github.io/akos-project-website)
 
 ---
