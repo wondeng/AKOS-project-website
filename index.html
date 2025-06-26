@@ -43,14 +43,21 @@
             padding: 1rem 0;
         }
 
+
         .logo {
-            font-size: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1.5rem;
             font-weight: bold;
-            background: linear-gradient(135deg, #2E8B57, #228B22);
-            -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;
+            color: #2E8B57;
         }
+
+        .logo-img {
+            height: 40px;
+            width: auto;
+        }
+
 
         .nav-links {
             display: flex;
@@ -454,6 +461,22 @@
     </style>
 </head>
 <body>
+        <header>
+        <nav class="container">
+            <div class="logo">
+                <img src="akos-logo.png" alt="AKOS Project Logo" class="logo-img">
+                <span>AKOS PROJECT</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#mission">Mission</a></li>
+                <li><a href="#programs">Programs</a></li>
+                <li><a href="#impact">Impact</a></li>
+                <li><a href="#get-involved">Get Involved</a></li>
+            </ul>
+            <a href="#donate" class="donate-btn">Donate</a>
+        </nav>
+    </header>
     <header>
         <nav class="container">
             <div class="logo">AKOS PROJECT</div>
